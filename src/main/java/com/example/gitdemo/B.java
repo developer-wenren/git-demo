@@ -7,6 +7,6 @@ package com.example.gitdemo;
  */
 public class B {
     public void method(String[] args) {
-        System.out.println(this.getClass());
+        System.out.println(this.getClass() + "bugfix");
     }
 }
